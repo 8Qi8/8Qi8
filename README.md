@@ -7,7 +7,7 @@ I hope to meet like-minded friends.
 ## Contact me
 Email: 2780764346@qq.com
  
-🔭 I’m currently working on Multi-Objective Optimization
+🔭 I’m currently working on Computer Vision
 
 ✨ SpringBoot MyBatisPlus MySql Vue Redis
 <!--
